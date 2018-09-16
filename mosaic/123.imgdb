@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="9">
+<this class_id="0" tracking_level="1" version="0" object_id="_0">
+	<m_defaultDisplayMultiple>1000</m_defaultDisplayMultiple>
+	<m_imageDatabaseName>111</m_imageDatabaseName>
+	<m_layerNames class_id="1" tracking_level="0" version="0">
+		<count>2</count>
+		<item_version>0</item_version>
+		<item>11</item>
+		<item>22</item>
+	</m_layerNames>
+	<m_pixelToMS>1</m_pixelToMS>
+</this>
+<pImageLayer class_id="2" tracking_level="1" version="1" object_id="_1">
+	<m_imageLayerName>11</m_imageLayerName>
+	<m_indexFilePath>Z:\20161214\20161214\blank.txt</m_indexFilePath>
+	<m_imageFolder>Z:\20161214\20161214</m_imageFolder>
+	<m_imagePrefix></m_imagePrefix>
+	<m_photographMultiple>1000</m_photographMultiple>
+	<m_smallScalePath></m_smallScalePath>
+	<m_edgeStoragePath></m_edgeStoragePath>
+</pImageLayer>
+<pImageLayer class_id_reference="2" object_id="_2">
+	<m_imageLayerName>22</m_imageLayerName>
+	<m_indexFilePath>Z:\20161214\blank.txt</m_indexFilePath>
+	<m_imageFolder>Z:\20161214</m_imageFolder>
+	<m_imagePrefix></m_imagePrefix>
+	<m_photographMultiple>500</m_photographMultiple>
+	<m_smallScalePath></m_smallScalePath>
+	<m_edgeStoragePath></m_edgeStoragePath>
+</pImageLayer>

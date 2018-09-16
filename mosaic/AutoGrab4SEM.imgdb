@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="9">
+<this class_id="0" tracking_level="1" version="0" object_id="_0">
+	<m_defaultDisplayMultiple>1000</m_defaultDisplayMultiple>
+	<m_imageDatabaseName>AutoGrab4SEM</m_imageDatabaseName>
+	<m_layerNames class_id="1" tracking_level="0" version="0">
+		<count>0</count>
+		<item_version>0</item_version>
+	</m_layerNames>
+	<m_pixelToMS>1</m_pixelToMS>
+</this>
